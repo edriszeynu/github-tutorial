@@ -73,3 +73,12 @@ body {
   font-size: 14px;
   text-align: center;
 }
+.error-message {
+  color: #d8000c;
+  background: #ffd2d2;
+  padding: 8px 12px;
+  border-radius: 4px;
+  margin-bottom: 12px;
+  font-size: 14px;
+  text-align: center;
+}
